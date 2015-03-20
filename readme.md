@@ -32,3 +32,14 @@ These are some ideas for divs you might want to include in your page structure -
 #companybottom
 ```
 
+#### Student's work
+- Michael Chow: http://michaelsbusyhand.bitballoon.com/
+- Dom: dom-dunnett-wk1-clone.bitballoon.com
+- Xiao: http://html-css-xiao.bitballoon.com/
+- Xavi: http://xavibusyhands.bitballoon.com/
+- Dimple: dimples-busyhands.bitballoon.com
+- Yang: yang-wk1-clone.bitballoon.com
+- Mia: http://mia-busy-hands-clone.bitballoon.com/
+- Victoria: http://victoria-busyhands.bitballoon.com/
+- Elia: http://elia-busyhands.bitballoon.com/
+- Ken: wdi-lab-ken.bitballoon.com
