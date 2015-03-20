@@ -43,3 +43,4 @@ These are some ideas for divs you might want to include in your page structure -
 - Victoria: http://victoria-busyhands.bitballoon.com/
 - Elia: http://elia-busyhands.bitballoon.com/
 - Ken: http://wdi-lab-ken.bitballoon.com
+- Wilson: http://w1d3homeworkwc.bitballoon.com/
