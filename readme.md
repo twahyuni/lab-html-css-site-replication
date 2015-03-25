@@ -31,16 +31,3 @@ These are some ideas for divs you might want to include in your page structure -
 #copyright 
 #companybottom
 ```
-
-#### Student's work
-- Michael Chow: http://michaelsbusyhand.bitballoon.com/
-- Dom: http://dom-dunnett-wk1-clone.bitballoon.com
-- Xiao: http://html-css-xiao.bitballoon.com/
-- Xavi: http://xavibusyhands.bitballoon.com/
-- Dimple: http://dimples-busyhands.bitballoon.com
-- Yang: http://yang-wk1-clone.bitballoon.com
-- Mia: http://mia-busy-hands-clone.bitballoon.com/
-- Victoria: http://victoria-busyhands.bitballoon.com/
-- Elia: http://elia-busyhands.bitballoon.com/
-- Ken: http://wdi-lab-ken.bitballoon.com
-- Wilson: http://w1d3homeworkwc.bitballoon.com/
