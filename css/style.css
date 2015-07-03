@@ -236,6 +236,7 @@ footer {
 
 #footer-widgets-inner .middle-widget {
   width: 400px;  
+  color: #bfbfbb;
 }
 
 #footer-widgets-inner h2 {
@@ -255,8 +256,7 @@ footer {
 }
 
 #footer-widgets-inner .box-footer ul li a {
-  text-decoration: none;
-  color: #515151;
+  color: #bfbfbb;
   font-size: 13px;
   font-style: normal;
 }
@@ -268,11 +268,13 @@ footer {
 /* Copyright */
 
 #copyright {  
+  color: #bfbfbb;
   float: left;
   width: 290px;
 }
 
 #companybottom {
+  color: #bfbfbb;
   float: right;
   width: 290px;
 }
@@ -301,5 +303,6 @@ footer {
 }
 
 .clear {
-  clear: both;  
+  /*No floating elements allowed*/
+  clear: both; 
 }
